@@ -1,4 +1,4 @@
-# Prácticas Fundamentales de React 🚀 (`t3_act5_react`)
+# Act5. Introducción a React
 
 Este proyecto tiene prácticas en React construidas con Vite que muestran componentes, propiedades, estados y renderizado dinámico.
 
