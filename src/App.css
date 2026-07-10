@@ -1,0 +1,111 @@
+body {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+  margin: 0;
+}
+
+.app-container {
+  width: 100%;
+  max-width: 500px;
+  background-color: #242424;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 24px;
+  color: #646cff;
+}
+
+.tarjeta-usuario {
+  border: 2px solid #646cff;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 15px 0;
+  text-align: left;
+  background-color: #2e2e2e;
+}
+
+.tarjeta-usuario h3 {
+  margin-top: 0;
+  color: #646cff;
+  border-bottom: 1px solid #444;
+  padding-bottom: 5px;
+}
+
+.contador-box {
+  padding: 15px;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.contador-numero {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #646cff;
+  margin: 10px 0;
+}
+
+.btn {
+  padding: 8px 16px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.btn-primary {
+  background-color: #646cff;
+  margin-right: 10px;
+}
+
+.btn-primary:hover {
+  background-color: #535bf2;
+}
+
+.btn-danger {
+  background-color: #e06666;
+}
+
+.btn-danger:hover {
+  background-color: #cc5252;
+}
+
+.lista-box {
+  padding: 15px;
+  text-align: left;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.lista-box ul {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.lista-box li {
+  margin: 8px 0;
+}
+
+.saludo-box {
+  padding: 10px;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.saludo-box h2 {
+  margin-top: 0;
+  color: #4db6ac;
+}
